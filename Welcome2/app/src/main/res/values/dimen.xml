@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="point_size">10dp</dimen>
+    <dimen name="point_left_length">20dp</dimen>
+</resources>
